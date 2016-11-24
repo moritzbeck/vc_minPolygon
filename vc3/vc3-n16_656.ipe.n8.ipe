@@ -1,0 +1,21 @@
+<ipe version="70206" creator="libvcdim">
+<ipestyle name="vc-poly">
+<symbol name="vc-point" transformations="translations">
+<path fill="blue">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<symbol name="vc-point(s)" transformations="translations">
+<path fill="sym-stroke">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<dashstyle name="normal" value="[]0"/>
+<dashstyle name="dashed" value="[3 3]0"/>
+</ipestyle>
+<page>
+<path>19.717644766535745 205.92321524633627 m 366.97815999631456 90.90941885470734 l 207.52667478172677 205.43519874872743 l 470.7275196941265 148.72309189997318 l 206.11116569209787 253.6495496148802 l 359.3452373698743 301.3261770593319 l 134.6203031042845 242.38659766454538 l 278.2875576100543 408.6885507025668 l h</path>
+<use name="vc-point" pos="366.97815999631456 90.90941885470734"/><use name="vc-point" pos="470.7275196941265 148.72309189997318"/><use name="vc-point" pos="359.3452373698743 301.3261770593319"/><text pos="19.717644766535745 205.92321524633627" size="3" valign="center">0</text><text pos="366.97815999631456 90.90941885470734" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">1</text><text pos="207.52667478172677 205.43519874872743" size="3" valign="center">2</text><text pos="470.7275196941265 148.72309189997318" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">3</text><text pos="206.11116569209787 253.6495496148802" size="3" valign="center">4</text><text pos="359.3452373698743 301.3261770593319" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">5</text><text pos="134.6203031042845 242.38659766454538" size="3" valign="center">6</text><text pos="278.2875576100543 408.6885507025668" size="3" valign="center">7</text></page>
+</ipe>

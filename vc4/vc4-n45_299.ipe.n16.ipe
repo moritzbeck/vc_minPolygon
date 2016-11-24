@@ -1,0 +1,21 @@
+<ipe version="70206" creator="libvcdim">
+<ipestyle name="vc-poly">
+<symbol name="vc-point" transformations="translations">
+<path fill="blue">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<symbol name="vc-point(s)" transformations="translations">
+<path fill="sym-stroke">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<dashstyle name="normal" value="[]0"/>
+<dashstyle name="dashed" value="[3 3]0"/>
+</ipestyle>
+<page>
+<path>230.33520546188953 458.88714040361737 m 91.58183751160219 411.73317437994115 l 211.60124259215561 397.7677092621628 l 127.09905305495442 329.83694962084195 l 98.58204766730195 254.53593494093482 l 211.52987298574791 206.30998656578052 l 250.1204657478039 350.59930083262617 l 284.749032914828 218.46430016936256 l 271.7208784834195 296.5414954219594 l 480.64626599173187 38.63864773861476 l 411.0949206360087 389.9778192457058 l 313.84286564443187 405.25201303258325 l 415.08955486398855 412.29624948098706 l 258.3587239920528 414.455809562596 l 412.0399382195546 475.7329785946037 l 243.98303188464806 430.26788335582745 l h</path>
+<use name="vc-point" pos="230.33520546188953 458.88714040361737"/><use name="vc-point" pos="91.58183751160219 411.73317437994115"/><use name="vc-point" pos="98.58204766730195 254.53593494093482"/><use name="vc-point" pos="411.0949206360087 389.9778192457058"/><text pos="230.33520546188953 458.88714040361737" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">0</text><text pos="91.58183751160219 411.73317437994115" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">1</text><text pos="211.60124259215561 397.7677092621628" size="3" valign="center">2</text><text pos="127.09905305495442 329.83694962084195" size="3" valign="center">3</text><text pos="98.58204766730195 254.53593494093482" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">4</text><text pos="211.52987298574791 206.30998656578052" size="3" valign="center">5</text><text pos="250.1204657478039 350.59930083262617" size="3" valign="center">6</text><text pos="284.749032914828 218.46430016936256" size="3" valign="center">7</text><text pos="271.7208784834195 296.5414954219594" size="3" valign="center">8</text><text pos="480.64626599173187 38.63864773861476" size="3" valign="center">9</text><text pos="411.0949206360087 389.9778192457058" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">10</text><text pos="313.84286564443187 405.25201303258325" size="3" valign="center">11</text><text pos="415.08955486398855 412.29624948098706" size="3" valign="center">12</text><text pos="258.3587239920528 414.455809562596" size="3" valign="center">13</text><text pos="412.0399382195546 475.7329785946037" size="3" valign="center">14</text><text pos="243.98303188464806 430.26788335582745" size="3" valign="center">15</text></page>
+</ipe>
