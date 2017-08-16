@@ -1,0 +1,21 @@
+<ipe version="70206" creator="libvcdim">
+<ipestyle name="vc-poly">
+<symbol name="vc-point" transformations="translations">
+<path fill="blue">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<symbol name="vc-point(s)" transformations="translations">
+<path fill="sym-stroke">-1.8 -1.8 m 1.8 -1.8 l 1.8 1.8 l -1.8 1.8 l h</path>
+</symbol>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<dashstyle name="normal" value="[]0"/>
+<dashstyle name="dashed" value="[3 3]0"/>
+</ipestyle>
+<page>
+<path>44 17 m 66 163 l 77 197 l 91 196 l 103 108 l 116 21 l 134 39 l 135 125 l 145 115 l 151 105 l 169 174 l 170 182 l 485 149 l 386 324 l 367 381 l 363 316 l 215 345 l 214 301 l 203 355 l 197 346 l 178 476 l 150 435 l 150 311 l 110 420 l 108 363 l 94 477 l 82 326 l 74 377 l 69 328 l 57 304 l 44 304 l 27 317 l h</path>
+<use name="vc-point" pos="77 197"/><use name="vc-point" pos="103 108"/><use name="vc-point" pos="151 105"/><use name="vc-point" pos="214 301"/><use name="vc-point" pos="69 328"/><text pos="44 17" size="3" valign="center">0</text><text pos="66 163" size="3" valign="center">1</text><text pos="77 197" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">2</text><text pos="91 196" size="3" valign="center">3</text><text pos="103 108" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">4</text><text pos="116 21" size="3" valign="center">5</text><text pos="134 39" size="3" valign="center">6</text><text pos="135 125" size="3" valign="center">7</text><text pos="145 115" size="3" valign="center">8</text><text pos="151 105" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">9</text><text pos="169 174" size="3" valign="center">10</text><text pos="170 182" size="3" valign="center">11</text><text pos="485 149" size="3" valign="center">12</text><text pos="386 324" size="3" valign="center">13</text><text pos="367 381" size="3" valign="center">14</text><text pos="363 316" size="3" valign="center">15</text><text pos="215 345" size="3" valign="center">16</text><text pos="214 301" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">17</text><text pos="203 355" size="3" valign="center">18</text><text pos="197 346" size="3" valign="center">19</text><text pos="178 476" size="3" valign="center">20</text><text pos="150 435" size="3" valign="center">21</text><text pos="150 311" size="3" valign="center">22</text><text pos="110 420" size="3" valign="center">23</text><text pos="108 363" size="3" valign="center">24</text><text pos="94 477" size="3" valign="center">25</text><text pos="82 326" size="3" valign="center">26</text><text pos="74 377" size="3" valign="center">27</text><text pos="69 328" size="6" stroke="blue" matrix="1 0 0 1 2 0" valign="center">28</text><text pos="57 304" size="3" valign="center">29</text><text pos="44 304" size="3" valign="center">30</text><text pos="27 317" size="3" valign="center">31</text></page>
+</ipe>
